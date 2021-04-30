@@ -5,4 +5,4 @@ npm run transpile
 npm publish --access public
 
 cd ../hawthorn/platform
-npm install --save se-react-tab
+npm install --save lt-react-tab

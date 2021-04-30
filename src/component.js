@@ -32,7 +32,7 @@ class Component extends React.Component {
         const Component = activeItem && activeItem.component
 
         return (
-            <div className={`se-react-tab`}>
+            <div className={`lt-react-tab`}>
                 <ul className="tab-navs">
                     {data.map(p => (
                         <li key={p.value} onClick={this.activeNav.bind(this, p)}

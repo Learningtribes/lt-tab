@@ -1,5 +1,5 @@
 {
-  "name": "se-react-tab",
+  "name": "lt-react-tab",
   "version": "1.0.8",
   "main": "dist/component.js",
   "scripts": {
@@ -46,15 +46,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seancy/se-react-checkbox-group.git"
+    "url": "git+https://github.com/Learningtribes/lt-react-checkbox-group.git"
   },
   "keywords": [
     "react",
     "tab"
   ],
   "bugs": {
-    "url": "https://github.com/seancy/se-react-checkbox-group/issues"
+    "url": "https://github.com/Learningtribes/lt-react-checkbox-group/issues"
   },
-  "homepage": "https://github.com/seancy/se-react-checkbox-group#readme",
+  "homepage": "https://github.com/Learningtribes/lt-react-checkbox-group#readme",
   "description": "tab"
 }
